@@ -125,9 +125,11 @@ O Doulos é distribuído **gratuitamente**, mas com responsabilidade social. Par
 
 **Idealizador e Desenvolvedor:** Kerson Kleber Espínola Pereira
 **Cidade:** Itabuna, Bahia — Brasil
-**Vínculo institucional:** UFSB — Universidade Federal do Sul da Bahia (SAI — Setor de Acessibilidade e Inclusão)
+**Atuação:** Professor e especialista em Libras — desenvolvedor independente
+**Parceria técnica:** IA Claude / Anthropic
 
 > *A concepção, arquitetura, design de interface, escolha de funcionalidades e toda a direção criativa são de autoria exclusiva de Kerson Kleber Espínola Pereira.*
+> *Este sistema foi criado de forma autônoma, fora de qualquer âmbito institucional, sem titularidade de terceiros.*
 > *O uso de IA (Claude / Anthropic) como ferramenta de produtividade durante o desenvolvimento não constitui coautoria.*
 
 ---
